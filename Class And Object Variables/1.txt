@@ -1,0 +1,1 @@
+laptop = Laptop(2000)
